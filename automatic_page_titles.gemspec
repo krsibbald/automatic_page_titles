@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email       = ["neilang@gmail.com"]
   s.homepage    = "https://github.com/neilang/automatic_page_titles"
   s.summary     = "Smart page title defaults for your Rails app."
-  s.description = "Allows you to easily set page titles per view in your Rails 4 app, but also follows Ruby on Rails "\
+  s.description = "Allows you to easily set page titles per view in your Rails app, but also follows Ruby on Rails "\
                   "naming conventions to set sensible default title if none is specified."
   s.license     = "MIT"
 
