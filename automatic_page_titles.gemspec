@@ -17,9 +17,9 @@ Gem::Specification.new do |s|
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
 
-  s.add_development_dependency "rails", "~> 4.0"
+  s.add_development_dependency "rails", "~> 5.2"
   s.add_development_dependency "sqlite3", "~> 1.3"
-  s.add_development_dependency "rspec-rails", "~> 3.2"
-  s.add_development_dependency "rubocop", "~> 0.30"
-  s.add_development_dependency "capybara", "~> 2.4"
+  s.add_development_dependency "rspec-rails", "~> 3.7"
+  s.add_development_dependency "rubocop", "~> 0.55"
+  s.add_development_dependency "capybara", "~> 3.0"
 end
